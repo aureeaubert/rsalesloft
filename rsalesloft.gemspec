@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version = RSalesloft::VERSION
   s.authors = ["Auree Aubert"]
   s.email = "contact@auree.me"
-  s.homepage = 'https://github.com/aureeaubert/salesloft-ruby'
+  s.homepage = 'https://github.com/aureeaubert/rsalesloft'
   s.summary = 'A Ruby wrapper for the Salesloft API'
   s.description = 'A Ruby wrapper for the Salesloft API '
   s.files = `git ls-files -z`.split("\x0")
