@@ -1,4 +1,5 @@
 require "rsalesloft/resources/accounts"
+require "rsalesloft/resources/account_stages"
 require "rsalesloft/resources/account_tiers"
 require "rsalesloft/resources/actions"
 require "rsalesloft/resources/activities"
